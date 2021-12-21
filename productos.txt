@@ -1,0 +1,22 @@
+[
+
+    {
+        "id": 1,
+        "nombre": "inter",
+        "url": "https://i.ibb.co/dgjzjvK/images-q-tbn-ANd9-Gc-TUtrjy-hxo-S7itymm994-PWb1-o-SLUZMo38-Fg-usqp-CAU.jpg",  
+        "precio": 2000
+    },
+    {
+        "id": 2,
+        "nombre": "defensa y justicia",
+        "url": "https://i.ibb.co/WBzHNLv/images-q-tbn-ANd9-Gc-Rxu-I5t-AXdtt-Izamd-RH9-AMzkt-WTbk-Opk-TRk-Jg-usqp-CAU.jpg",
+        "precio": 1500
+
+    },
+    {
+        "id": 3,
+        "nombre": "atletico madrid",
+        "url": "https://i.ibb.co/Z2zDQ6y/images-q-tbn-ANd9-Gc-Re-FPQu-FEjev-D6-YS2-NTIug-Fx-X-fsjkr-Jucp-BQ-usqp-CAU.jpg",
+        "precio": 2500
+    }
+]
